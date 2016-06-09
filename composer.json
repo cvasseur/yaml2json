@@ -1,0 +1,12 @@
+{
+    "name": "cvasseur/yaml2json",
+    "require": {
+        "symfony/yaml": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "Clément Vasseur",
+            "email": "cle.vasseur@gmail.com"
+        }
+    ]
+}
